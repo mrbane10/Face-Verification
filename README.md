@@ -13,7 +13,7 @@ The core of this system relies on a pre-trained Inception-ResNet model to genera
 
 ## **Dependencies**
 Ensure the following libraries are installed:
-- Python 3.x
+- Python 3.11
 - TensorFlow (Keras API)
 - NumPy
 - OpenCV (optional for image handling)
